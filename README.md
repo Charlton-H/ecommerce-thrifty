@@ -25,7 +25,10 @@ This basic backend eCommerce site is used for thrifty goods to be sold. Products
 
 ## Installation
 
-Users should first run `npm install` and then setup an environment file for a proper backend SQL database
+1. Users should first run `npm install`
+2. Users should then setup an environment file for a proper backend SQL database
+3. Users should create database table
+4. Users should seed the database
 
 ## License
 
