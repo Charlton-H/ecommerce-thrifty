@@ -8,7 +8,7 @@ This basic backend eCommerce site is used for thrifty goods to be sold. Products
 
 ## Demo
 
-![demo](./assets/images/ecommerce-demo.PNG)
+![demo](./assets/images/eCommerce-demo.PNG)
 
 [View GitHub Here](https://github.com/Charlton-H/ecommerce-thrifty)
 
